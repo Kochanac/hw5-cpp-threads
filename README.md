@@ -28,9 +28,11 @@ make
 ## Ввод
 
 first country missile count - количество ракет у первой страны
+
 first country home count - количество домой первой стрны
 
 second country missile count - количество ракет у второй страны
+
 second country home count - количество домой второй стрны
 
 
